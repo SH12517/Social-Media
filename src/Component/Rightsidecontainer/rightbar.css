@@ -1,0 +1,48 @@
+.rightbar{
+    flex: 1 ;
+}
+.rightcontainer{
+    width: 19pc;
+    height: 53vh;
+    background-color: rgba(255, 255, 255, 0.912);
+    margin-top: 13px;
+    border-radius:12px;
+    overflow: hidden;
+    scroll-behavior:smooth;
+}
+.adsimage{
+    width: 130px;
+    height: 80px;
+    object-fit: cover;
+}
+.adsContainer{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    padding: 10px;
+}
+.rightcontainer2{
+    width: 19pc;
+    height: 58vh;
+    background-color: rgba(255, 255, 255, 0.912);
+    margin-top: 20px;
+    border-radius:15px ;
+    margin-top: 20px;
+    padding: 3px;
+    overflow-y: hidden;
+    overflow-y: scroll;
+
+}
+.profileimage{
+    width:40px;
+    height:40px ;
+    border-radius: 50%;
+    margin-left:10px ;
+}
+.addfriend{
+    width:35px;
+    height:35px ;
+    border-radius: 40%;
+    margin-right: 15px;
+    background-color: rgba(240, 248, 255, 0.8);
+}

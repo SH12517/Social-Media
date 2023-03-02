@@ -1,0 +1,27 @@
+.ContentUploadContainer{
+    width:93%;
+    background-color: white;
+    height: 25vh;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.containerWritingpart{
+     width: 29pc;
+     margin-left: 10px;
+     margin-top: 5px;
+     height:5hv;
+     border:none;
+}
+.profileimage{
+    width: 38px;
+    height: 38px;
+    border-radius:50%;
+    margin-left:5px;
+}
+.icons{
+     width: 24px;
+     height: 24px;
+     margin-left:8px;
+     margin-top:49px;
+}
